@@ -9,11 +9,11 @@
 <h1 align="center">Lichessorg Discordrpc</h1>
 
 <p align="center">
-  ![GitHub top language](https://img.shields.io/github/languages/top/awesomehet2124/EmployeeManager?style=for-the-badge)
+  ![GitHub top language](https://img.shields.io/github/languages/top/awesomehet2124/lichessorg-discordrpc/?style=for-the-badge)
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/awesomehet2124/lichessorg-discordrpc?color=56BEB8?style=for-the-badge">
 
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/EmployeeManager?style=for-the-badge)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
 
   <img alt="License" src="https://img.shields.io/github/license/awesomehet2124/lichessorg-discordrpc?color=56BEB8?style=for-the-badge">
 
