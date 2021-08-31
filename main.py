@@ -1,7 +1,7 @@
 from pypresence import Presence
 import requests, time, config
 
-client_id = int(config.client_id)
+client_id = 882215431836958771
 RPC = Presence(client_id)
 RPC.connect()
 
