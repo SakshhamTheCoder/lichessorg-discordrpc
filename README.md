@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./app.gif" alt="Lichessorg Discordrpc" />
+  <img src="./app.gif" alt="Lichess-Icon" />
 
   &#xa0;
 
