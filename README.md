@@ -55,12 +55,12 @@ Describe your project
 The following tools were used in this project:
 
 - [PyPresence](https://pypi.org/project/pypresence/)
-- [Python-Lichess](https://pypi.org/project/python-lichess)
+- [Requests](https://pypi.org/project/requests)
 
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have 
-- [PyPresence](https://pypi.org/project/pypresence/) and [Python](https://python.org/)  installed. **Also, you need to put your lichess id in the `config.py` file**
+- [PyPresence](https://pypi.org/project/pypresence/), [Requests](https://pypi.org/project/requests) and [Python](https://python.org/)  installed. **Also, you need to put your lichess id in the `config.py` file**
 
 ## :checkered_flag: Starting ##
 
