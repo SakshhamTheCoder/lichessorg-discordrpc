@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Lichessorg Discordrpc" />
+  <img src="./app.gif" alt="Lichessorg Discordrpc" />
 
   &#xa0;
 
@@ -9,11 +9,11 @@
 <h1 align="center">Lichessorg Discordrpc</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/lichessorg-discordrpc?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/awesomehet/lichessorg-discordrpc?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/lichessorg-discordrpc?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/awesomehet/lichessorg-discordrpc?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/lichessorg-discordrpc?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/awesomehet/lichessorg-discordrpc?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/awesomehet/lichessorg-discordrpc?color=56BEB8">
 
