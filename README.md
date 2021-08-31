@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/github/license/awesomehet2124/EmployeeManager?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/awesomehet2124/lichessorg-discordrpc?style=social?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
 
 
 <!-- Status -->
