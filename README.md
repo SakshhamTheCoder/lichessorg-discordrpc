@@ -46,8 +46,7 @@ Now your terminal should look something like this
 Final step:
 <br>
 Type 
-<code>py
-python main.py
+<code>python main.py
 </code>
 <br>
 There will not be any output, but your rpc will start.
