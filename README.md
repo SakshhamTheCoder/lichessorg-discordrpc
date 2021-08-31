@@ -42,7 +42,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Shows a beautiful Discord Activity Rich Presence in your profile
 
 ## :sparkles: Features ##
 
