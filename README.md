@@ -45,9 +45,10 @@ Now your terminal should look something like this
 <br>
 Final step:
 <br>
-Type ```py
+Type 
+<code>```py
 python main.py
-```
+```</code>
 <br>
 There will not be any output, but your rpc will start.
 <br>
