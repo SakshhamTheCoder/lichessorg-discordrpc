@@ -26,7 +26,7 @@ Open the config.py file and set your lichess username there.
 Then open up Command Prompt(for windows)/Terminal(for mac)
 <br>
 <br>
-and type `pip install pypresence`
+and type ``pip install pypresence``
 <br>
 <br>
 You should get an output like:
@@ -45,7 +45,9 @@ Now your terminal should look something like this
 <br>
 Final step:
 <br>
-Type `python main.py`
+Type ```py
+python main.py
+```
 <br>
 There will not be any output, but your rpc will start.
 <br>
