@@ -9,26 +9,6 @@
 <h1 align="center">Lichessorg Discordrpc</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/awesomehet2124/lichessorg-discordrpc?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/awesomehet2124/lichessorg-discordrpc?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/awesomehet2124/lichessorg-discordrpc?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/awesomehet2124/lichessorg-discordrpc?color=56BEB8">
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/awesomehet2124/lichessorg-discordrpc?color=56BEB8" />
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Lichessorg Discordrpc 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -37,6 +17,23 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/awesomehet2124" target="_blank">Author</a>
 </p>
+
+
+
+![GitHub top language](https://img.shields.io/github/languages/top/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/awesomehet2124/EmployeeManager?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/awesomehet2124/lichessorg-discordrpc?style=for-the-badge)
+
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Lichessorg Discordrpc 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
 
 
 <br>
@@ -79,7 +76,7 @@ $ python main.py
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/awesomehet2124" target="_blank">awesomehet2124</a>
