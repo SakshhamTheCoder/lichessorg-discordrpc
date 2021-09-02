@@ -1,7 +1,6 @@
-import time
 import sys
-import requests
 import threading
+import requests
 import config
 from pypresence import Presence
 
