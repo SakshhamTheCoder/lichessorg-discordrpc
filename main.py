@@ -1,5 +1,5 @@
 import sys
-import threading
+from apscheduler.schedulers.background import BlockingScheduler
 import requests
 import config
 from pypresence import Presence
@@ -65,4 +65,6 @@ def update_presence():
 
 if __name__ == '__main__':
     connect()
-    threading.Timer(5.0, update_presence).start()
+    scheduler = BlockingScheduler()
+    scheduler.add_job(update_presence, 'interval', seconds=5)
+    scheduler.start()
