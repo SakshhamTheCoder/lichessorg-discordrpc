@@ -44,9 +44,9 @@ Shows a beautiful Discord Activity Rich Presence in your profile
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1; Shows your current status in your discord activity\
-:heavy_check_mark: Feature 2; Has a button for other people so that they can see your live game\
-:heavy_check_mark: Feature 3 Its easy to use;
+:heavy_check_mark: Feature 1: Shows your current status in your discord activity.\
+:heavy_check_mark: Feature 2: Has a button for other people so that they can see your live game.\
+:heavy_check_mark: Feature 3: It's easy to use and configure.
 
 ## :rocket: Technologies ##
 
@@ -54,6 +54,7 @@ The following tools were used in this project:
 
 - [PyPresence](https://pypi.org/project/pypresence/)
 - [Requests](https://pypi.org/project/requests)
+- [APScheduler](https://pypi.org/project/APScheduler/)
 
 ## :white_check_mark: Requirements ##
 
@@ -69,6 +70,9 @@ $ git clone https://github.com/awesomehet2124/lichessorg-discordrpc
 # Access
 $ cd lichessorg-discordrpc
 
+# Install Dependencies
+$ pip install -r requirements.txt
+
 # Run the project
 $ python main.py
 
@@ -80,7 +84,8 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 
 Made with :heart: by <a href="https://github.com/awesomehet2124" target="_blank">awesomehet2124</a>
-Contributed by <a href="https://github.com/SakshhamTheCoder" target="_blank">SakshhamTheCoder</a>
+
+Contributed by <a href="https://github.com/SakshhamTheCoder" target="_blank">SakshhamTheCoder</a> and <a href="https://github.com/lamergameryt" target="_blank">LamerGamerYT</a>
 
 &#xa0;
 
